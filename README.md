@@ -4,6 +4,8 @@
 
 [Jogar gratuitamente](https://gustapaz.github.io/cifra/)
 
+![Cifra publicado com fita de hipóteses e compositor](docs/public-gameplay.png)
+
 Jogo de dedução de símbolos com fita horizontal de hipóteses, feedback agregado e painel de teclas. Descubra um código oculto comparando suas tentativas. Símbolos podem se repetir; cada ocorrência conta uma vez no retorno.
 
 ## Modos e regras
